@@ -9,3 +9,5 @@ class Linkedlist{
         System.out.println(colors);
     }
 }
+//output
+//[black,red,blue,yellow]
